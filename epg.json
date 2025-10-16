@@ -1,0 +1,224 @@
+[
+  {
+    "channelId": "bbc-one-uk",
+    "programs": [
+      {
+        "id": "bbc1-p1",
+        "title": "Morning News",
+        "desc": "BBC One morning news and weather.",
+        "start": "2025-10-16T06:00:00Z",
+        "end": "2025-10-16T07:00:00Z",
+        "category": "News"
+      },
+      {
+        "id": "bbc1-p2",
+        "title": "Daily Magazine",
+        "desc": "Current affairs and features.",
+        "start": "2025-10-16T07:00:00Z",
+        "end": "2025-10-16T09:00:00Z",
+        "category": "Magazine"
+      },
+      {
+        "id": "bbc1-p3",
+        "title": "Afternoon Drama",
+        "desc": "A compelling drama series.",
+        "start": "2025-10-16T14:00:00Z",
+        "end": "2025-10-16T16:00:00Z",
+        "category": "Drama"
+      },
+      {
+        "id": "bbc1-p4",
+        "title": "Evening News",
+        "desc": "The latest national and international news.",
+        "start": "2025-10-16T18:00:00Z",
+        "end": "2025-10-16T19:00:00Z",
+        "category": "News"
+      }
+    ]
+  },
+  {
+    "channelId": "cnn-us",
+    "programs": [
+      {
+        "id": "cnn-p1",
+        "title": "CNN Morning",
+        "desc": "Breaking news and interviews.",
+        "start": "2025-10-16T12:00:00Z",
+        "end": "2025-10-16T14:00:00Z",
+        "category": "News"
+      },
+      {
+        "id": "cnn-p2",
+        "title": "CNN Newsroom",
+        "desc": "In-depth analysis of current events.",
+        "start": "2025-10-16T15:00:00Z",
+        "end": "2025-10-16T17:00:00Z",
+        "category": "News"
+      },
+      {
+        "id": "cnn-p3",
+        "title": "The Situation Room",
+        "desc": "Analysis of the day's top stories with Wolf Blitzer.",
+        "start": "2025-10-16T17:00:00Z",
+        "end": "2025-10-16T19:00:00Z",
+        "category": "News"
+      },
+      {
+        "id": "cnn-p4",
+        "title": "CNN Tonight",
+        "desc": "A look at the headlines with Don Lemon.",
+        "start": "2025-10-16T22:00:00Z",
+        "end": "2025-10-16T23:00:00Z",
+        "category": "News"
+      }
+    ]
+  },
+  {
+    "channelId": "sky-sports-uk",
+    "programs": [
+      {
+        "id": "sky-p1",
+        "title": "Good Morning Sports Fans",
+        "desc": "The day's sports headlines.",
+        "start": "2025-10-16T06:00:00Z",
+        "end": "2025-10-16T08:00:00Z",
+        "category": "Sports"
+      },
+      {
+        "id": "sky-p2",
+        "title": "Live: Football Match",
+        "desc": "Live coverage of a Premier League football match.",
+        "start": "2025-10-16T12:30:00Z",
+        "end": "2025-10-16T15:00:00Z",
+        "category": "Sports"
+      },
+      {
+        "id": "sky-p3",
+        "title": "Sports News",
+        "desc": "The latest sports news and highlights.",
+        "start": "2025-10-16T17:00:00Z",
+        "end": "2025-10-16T18:00:00Z",
+        "category": "Sports"
+      },
+      {
+        "id": "sky-p4",
+        "title": "Live: Cricket",
+        "desc": "Live coverage of an international cricket match.",
+        "start": "2025-10-16T19:00:00Z",
+        "end": "2025-10-16T22:00:00Z",
+        "category": "Sports"
+      }
+    ]
+  },
+  {
+    "channelId": "espn-us",
+    "programs": [
+      {
+        "id": "espn-p1",
+        "title": "SportsCenter",
+        "desc": "The day's top sports stories.",
+        "start": "2025-10-16T07:00:00Z",
+        "end": "2025-10-16T09:00:00Z",
+        "category": "Sports"
+      },
+      {
+        "id": "espn-p2",
+        "title": "First Take",
+        "desc": "Debate and analysis on the latest sports topics.",
+        "start": "2025-10-16T10:00:00Z",
+        "end": "2025-10-16T12:00:00Z",
+        "category": "Sports"
+      },
+      {
+        "id": "espn-p3",
+        "title": "Live: NBA Game",
+        "desc": "Live coverage of an NBA basketball game.",
+        "start": "2025-10-16T19:00:00Z",
+        "end": "2025-10-16T22:00:00Z",
+        "category": "Sports"
+      },
+      {
+        "id": "espn-p4",
+        "title": "NFL Live",
+        "desc": "The latest news and analysis from the NFL.",
+        "start": "2025-10-16T23:00:00Z",
+        "end": "2025-10-17T00:00:00Z",
+        "category": "Sports"
+      }
+    ]
+  },
+  {
+    "channelId": "rtve-esp",
+    "programs": [
+      {
+        "id": "rtve-p1",
+        "title": "Telediario Matinal",
+        "desc": "Morning news program.",
+        "start": "2025-10-16T06:00:00Z",
+        "end": "2025-10-16T08:30:00Z",
+        "category": "News"
+      },
+      {
+        "id": "rtve-p2",
+        "title": "La Mañana",
+        "desc": "Morning magazine program.",
+        "start": "2025-10-16T10:00:00Z",
+        "end": "2025-10-16T13:00:00Z",
+        "category": "Magazine"
+      },
+      {
+        "id": "rtve-p3",
+        "title": "Telediario 1",
+        "desc": "Afternoon news program.",
+        "start": "2025-10-16T15:00:00Z",
+        "end": "2025-10-16T16:00:00Z",
+        "category": "News"
+      },
+      {
+        "id": "rtve-p4",
+        "title": "Cine de Barrio",
+        "desc": "Classic Spanish cinema.",
+        "start": "2025-10-16T22:00:00Z",
+        "end": "2025-10-17T00:00:00Z",
+        "category": "Movies"
+      }
+    ]
+  },
+  {
+    "channelId": "france-tv-fr",
+    "programs": [
+      {
+        "id": "france-p1",
+        "title": "Télématin",
+        "desc": "Morning news and talk show.",
+        "start": "2025-10-16T06:30:00Z",
+        "end": "2025-10-16T09:00:00Z",
+        "category": "News"
+      },
+      {
+        "id": "france-p2",
+        "title": "Un si grand soleil",
+        "desc": "Daily drama series.",
+        "start": "2025-10-16T20:45:00Z",
+        "end": "2025-10-16T21:15:00Z",
+        "category": "Drama"
+      },
+      {
+        "id": "france-p3",
+        "title": "Le 20H",
+        "desc": "Evening news program.",
+        "start": "2025-10-16T20:00:00Z",
+        "end": "2025-10-16T20:45:00Z",
+        "category": "News"
+      },
+      {
+        "id": "france-p4",
+        "title": "Envoyé spécial",
+        "desc": "Investigative journalism program.",
+        "start": "2025-10-16T21:15:00Z",
+        "end": "2025-10-16T23:00:00Z",
+        "category": "Documentary"
+      }
+    ]
+  }
+]
