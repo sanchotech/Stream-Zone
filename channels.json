@@ -1,0 +1,69 @@
+[
+  {
+    "id": "bbc-one-uk",
+    "name": "BBC One",
+    "country": "GB",
+    "language": "en",
+    "logo": "https://assets.example.com/logos/bbc-one.png",
+    "stream_type": "hls",
+    "stream_url": "https://streams.example.com/bbc-one-uk/index.m3u8",
+    "epg_id": "bbc.one",
+    "genre": "General",
+    "tags": ["news","general"],
+    "description": "BBC One is the flagship television channel of the British Broadcasting Corporation."
+  },
+  {
+    "id": "cnn-us",
+    "name": "CNN",
+    "country": "US",
+    "language": "en",
+    "logo": "https://assets.example.com/logos/cnn.png",
+    "stream_type": "hls",
+    "stream_url": "https://streams.example.com/cnn-us/index.m3u8",
+    "epg_id": "cnn",
+    "genre": "News",
+    "tags": ["news"],
+    "description": "CNN is a leading global news network providing up-to-the-minute reporting."
+  },
+  {
+    "id": "sky-sports-uk",
+    "name": "Sky Sports",
+    "country": "GB",
+    "language": "en",
+    "logo": "https://assets.example.com/logos/sky-sports.png",
+    "stream_type": "hls",
+    "stream_url": "https://streams.example.com/sky-sports-uk/index.m3u8",
+    "epg_id": "sky.sports",
+    "genre": "Sports",
+    "tags": ["sports"],
+    "description": "Sky Sports offers comprehensive coverage of a wide range of sports."
+  },
+  {
+    "id": "espn-us",
+    "name": "ESPN",
+    "country": "US",
+    "language": "en",
+    "logo": "https://assets.example.com/logos/espn.png",
+    "stream_type": "hls",
+    "stream_url": "https://streams.example.com/espn-us/index.m3u8",
+    "epg_id": "espn",
+    "genre": "Sports",
+    "tags": ["sports"],
+    "description": "ESPN is the leading provider of sports content in the United States."
+  },
+  {
+    "id": "rtve-esp",
+    "name": "RTVE",
+    "country": "ES",
+    "language": "es",
+    "logo": "https://assets.example.com/logos/rtve.png",
+    "stream_type": "hls",
+    "stream_url": "https://streams.example.com/rtve-esp/index.m3u8",
+    "epg_id": "rtve",
+    "genre": "General",
+    "tags": ["general"],
+    "description": "RTVE is the Spanish public service broadcaster."
+  },
+  {
+    "id": "france-tv-fr",
+    "name
